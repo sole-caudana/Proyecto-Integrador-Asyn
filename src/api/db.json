@@ -1,0 +1,32 @@
+{
+  "juegos": [
+    {
+      "id": 1,
+      "name": "Cola al burro",
+      "description": "Avtividad clásica y divertida. el objetivo es que los participantes intenten colocar una cola adhesiva en el lugar correcto, con los ojos vendados.",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTnO3Oru8U4TV5pVDlC1kmsYi7Pb1H_etyNw&usqp=CAU",
+      "isLiked": false
+    },
+    {
+      "id": 2,
+      "name": "Embocar los aros",
+      "description": "El juego implica lanzar aros desde una distancia determinada con el objetivo de hacerlos pasar a través de aros o estructuras móviles, ganando premios según la dificultad y el número de aros embocados.",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-sWG145KssuOonufJrriHsnIrpCyX4IfafA&usqp=CAU",
+      "isLiked": true
+    },
+    {
+      "id": 3,
+      "name": "Golfito",
+      "description": "Implica el uso de un pequeño campo de golf en el que los participantes deben golpear una pelota con un palo de golf hacia un agujero en el menor número de golpes posible.",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBtCfEaNxhooWd-ZuHRnPrXffeG-0gnIXzhQ&usqp=CAU",
+      "isLiked": true
+    },
+    {
+      "id": "4",
+      "name": "Mini fútbol      ",
+      "description": "Es una versión en miniatura y divertida del fútbol. Implica lanzar pelotas de fútbol desde una distancia determinada con el objetivo de hacer un gol, ganando premios.",
+      "img": "https://img.clasf.mx/2022/02/10/Puestos-estilo-feria-para-tus-fiestas-infantiles-20220210063019.9753760015.jpg",
+      "isLiked": false
+    }
+  ]
+}
